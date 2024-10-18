@@ -84,9 +84,11 @@ Plot the linear regression model on top of the previous scatter plot.
 
 # Technologies
 Jupyter Notebook
+
 Programming Language: 
-    Python
+    -Python
+    
 Libraries:
-    Pandas
-    Matplotlib
-    Scipy
+    -Pandas
+    -Matplotlib
+    -Scipy
